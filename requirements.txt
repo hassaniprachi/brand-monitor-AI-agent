@@ -3,5 +3,6 @@ praw
 textblob
 pandas
 matplotlib
-GoogleNews
-youtubesearchpython
+
+
+
